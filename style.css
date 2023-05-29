@@ -1,0 +1,164 @@
+.Titulo{
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    border: 20px solid rgb(255, 255, 255);
+    padding: 1px;
+    font-size: 60px;
+    margin: 10px;
+}
+
+h2{
+    background-image: url(https://www.callcentrehelper.com/images/stories/2020/07/tools-wallpaper-760.png);
+    width: 850px;
+    border: 5px solid rgb(49, 49, 49);
+    padding: 230px;
+    margin: 10px;
+    text-align: justify;
+    bottom: 1px;
+
+}
+    
+    .container{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    }
+    
+    .Ferramentas{
+     background-color: rgb(150, 104, 7);
+     width: 136px;
+     border: 7px solid rgb(0, 0, 0);
+     padding: 1px;
+     margin: 20px;
+     border-radius: 20px;
+    }
+    
+ 
+    .Maquinas{
+     background-color: rgb(150, 104, 7);
+     width: 136px;
+     border: 7px solid rgb(0, 0, 0);
+     padding: 1px;
+     margin: 20px;
+     border-radius: 20px;
+    }
+    
+
+    .Peças{
+     background-color: rgb(150, 104, 7);
+     width: 136px;
+     border: 7px solid rgb(0, 0, 0);
+     padding: 1px;
+     margin: 20px;
+     border-radius: 20px;
+    }
+    
+    .Outros{
+     background-color: rgb(150, 104, 7);
+     width: 136px;
+     border: 7px solid rgb(0, 0, 0); 
+     padding: 1px;
+     margin: 20px;
+     border-radius: 20px;
+    }
+    
+    
+    .Texto2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .Intro{
+        width: 680px;
+        margin: top;
+        font-size: 60px;
+        margin: 20px;
+    }
+    
+    
+    .Lorem{
+        width: 500px;
+        border: 20px solid rgb(255, 255, 255);
+        padding: 1px;;
+        font-size: 20px;
+    }
+
+    .button {
+        background-color:rgb(150, 104, 7);
+        border: 7px solid rgb(0, 0, 0);
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 21px 200px;
+        cursor: pointer;
+      }
+
+.Pag2-Title{
+    padding: 20px;
+    text-align: justify;
+    font-size: 50px;
+}
+
+.Manuais-img{
+display: flex;
+width: 180px;
+}
+
+.dx81{
+    width: 400px;
+}
+
+.dx37{
+    width: 400px;
+}
+
+.tarmelo{
+    width: 400px;
+}
+
+.Container2{
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.martalo{
+    border: 5px solid black;
+    text-align: center;
+}
+
+.Chave-fixaDX{
+    border: 5px solid black;
+    text-align: center;
+}
+
+.Chave-fixaDx8{
+    border: 5px solid black;
+    text-align: center;
+}
+
+.preço{
+    background-color:rgb(150, 104, 7);
+        border: 7px solid rgb(0, 0, 0);
+        color: white;
+        padding: 15px 14px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 21px 200px;
+        cursor: pointer;
+}
+
+.dx37{
+    border: 7px solid rgb(110, 0, 0);
+}
