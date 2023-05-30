@@ -1,164 +1,350 @@
+
+
+
+
+
 .Titulo{
-    background-color: rgb(255, 255, 255);
-    width: 280px;
-    border: 20px solid rgb(255, 255, 255);
-    padding: 1px;
-    font-size: 60px;
-    margin: 10px;
+background-color: rgb(255, 255, 255);
+width: 280px;
+border: 20px solid rgb(255, 255, 255);
+padding: 1px;
+font-size: 60px;
+margin: 10px;
+
 }
+
+
+
 
 h2{
-    background-image: url(https://www.callcentrehelper.com/images/stories/2020/07/tools-wallpaper-760.png);
-    width: 850px;
-    border: 5px solid rgb(49, 49, 49);
-    padding: 230px;
-    margin: 10px;
-    text-align: justify;
-    bottom: 1px;
+background-image: url(https://www.callcentrehelper.com/images/stories/2020/07/tools-wallpaper-760.png);
+width: 850px;
+border: 5px solid rgb(49, 49, 49);
+padding: 230px;
+margin: 10px;
+text-align: justify;
+bottom: 1px;
+
+
+
 
 }
-    
-    .container{
-    display: flex;
-    flex-direction: row;
-    font-size: 20px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
-    justify-content: center;
-    text-align: center;
-    color: aliceblue;
-    }
-    
-    .Ferramentas{
-     background-color: rgb(150, 104, 7);
-     width: 136px;
-     border: 7px solid rgb(0, 0, 0);
-     padding: 1px;
-     margin: 20px;
-     border-radius: 20px;
-    }
-    
- 
-    .Maquinas{
-     background-color: rgb(150, 104, 7);
-     width: 136px;
-     border: 7px solid rgb(0, 0, 0);
-     padding: 1px;
-     margin: 20px;
-     border-radius: 20px;
-    }
-    
 
-    .Peças{
-     background-color: rgb(150, 104, 7);
-     width: 136px;
-     border: 7px solid rgb(0, 0, 0);
-     padding: 1px;
-     margin: 20px;
-     border-radius: 20px;
-    }
-    
-    .Outros{
-     background-color: rgb(150, 104, 7);
-     width: 136px;
-     border: 7px solid rgb(0, 0, 0); 
-     padding: 1px;
-     margin: 20px;
-     border-radius: 20px;
-    }
-    
-    
-    .Texto2{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-    
-    .Intro{
-        width: 680px;
-        margin: top;
-        font-size: 60px;
-        margin: 20px;
-    }
-    
-    
-    .Lorem{
-        width: 500px;
-        border: 20px solid rgb(255, 255, 255);
-        padding: 1px;;
-        font-size: 20px;
-    }
+.container{
+display: flex;
+flex-direction: row;
+font-size: 20px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+justify-content: center;
+text-align: center;
+color: aliceblue;
+}
 
-    .button {
-        background-color:rgb(150, 104, 7);
-        border: 7px solid rgb(0, 0, 0);
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        margin: 21px 200px;
-        cursor: pointer;
-      }
+.Ferramentas{
+background-color: rgb(150, 104, 7);
+width: 136px;
+border: 7px solid rgb(0, 0, 0);
+padding: 1px;
+margin: 20px;
+border-radius: 20px;
+}
+
+
+
+.Maquinas{
+background-color: rgb(150, 104, 7);
+width: 136px;
+border: 7px solid rgb(0, 0, 0);
+padding: 1px;
+margin: 20px;
+border-radius: 20px;
+}
+
+
+
+
+.Peças{
+background-color: rgb(150, 104, 7);
+width: 136px;
+border: 7px solid rgb(0, 0, 0);
+padding: 1px;
+margin: 20px;
+border-radius: 20px;
+}
+
+.Outros{
+background-color: rgb(150, 104, 7);
+width: 136px;
+border: 7px solid rgb(0, 0, 0);
+padding: 1px;
+margin: 20px;
+border-radius: 20px;
+}
+
+
+.Texto2{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.Intro{
+width: 680px;
+margin: top;
+font-size: 60px;
+margin: 20px;
+}
+
+
+.Lorem{
+width: 500px;
+border: 20px solid rgb(255, 255, 255);
+padding: 1px;;
+font-size: 20px;
+}
+
+
+
+.button {
+background-color:rgb(150, 104, 7);
+border: 7px solid rgb(0, 0, 0);
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 21px 200px;
+cursor: pointer;
+}
+
+
+
 
 .Pag2-Title{
-    padding: 20px;
-    text-align: justify;
-    font-size: 50px;
+padding: 20px;
+text-align: justify;
+font-size: 50px;
+
 }
+
+
+
 
 .Manuais-img{
+
 display: flex;
+
 width: 180px;
+
 }
+
+
+
 
 .dx81{
-    width: 400px;
+width: 220px;
+
 }
 
+
+
+
 .dx37{
-    width: 400px;
+width: 220px;
+
 }
+
+
+
 
 .tarmelo{
-    width: 400px;
+width: 220px;
+
 }
+
+
+
 
 .Container2{
-    font-size: 25px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+font-size: 25px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
 }
+
+
+
 
 .martalo{
-    border: 5px solid black;
-    text-align: center;
+border: 2px solid black;
+text-align: center;
+width: 349px;
+
 }
+
+
+
 
 .Chave-fixaDX{
-    border: 5px solid black;
-    text-align: center;
+border: 2px solid black;
+text-align: center;
+width: 367px;
+
 }
+
+
+
 
 .Chave-fixaDx8{
-    border: 5px solid black;
-    text-align: center;
+border: 2px solid black;
+text-align: center;
+width: 356px;
+
 }
+
+
+
 
 .preço{
-    background-color:rgb(150, 104, 7);
-        border: 7px solid rgb(0, 0, 0);
-        color: white;
-        padding: 15px 14px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        margin: 21px 200px;
-        cursor: pointer;
+background-color:rgb(150, 104, 7);
+color: white;
+padding: 15px 14px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 21px 200px;
+cursor: pointer;
+position: relative;
+left: -60px;
+
 }
 
+
+
+
 .dx37{
-    border: 7px solid rgb(110, 0, 0);
+
 }
+
+
+
+
+
+.topnav {
+overflow: hidden;
+background-color: #e9e9e9;
+}
+
+
+
+
+
+.topnav a {
+float: left;
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+
+.topnav a.active {
+background-color: #2196F3;
+color: white;
+}
+
+
+
+
+
+.topnav input[type=text] {
+float: right;
+padding: 6px;
+border: none;
+margin-top: 8px;
+margin-right: 16px;
+font-size: 17px;
+}
+
+@media screen and (max-width: 600px) {
+.topnav a, .topnav input[type=text] {
+float: none;
+display: block;
+text-align: left;
+width: 100%;
+margin: 0;
+padding: 14px;
+}
+
+.topnav input[type=text] {
+border: 1px solid #ccc;
+}
+}
+
+
+
+.Container3{
+font-size: 25px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+
+
+.martulo{
+border: 2px solid black;
+text-align: center;
+width: 349px;
+
+
+
+}
+
+
+
+
+.Chave-fixaDX88{
+border: 2px solid black;
+text-align: center;
+width: 367px;
+}
+
+
+
+
+
+.Chave-fixaDx37{
+border: 2px solid black;
+text-align: center;
+width: 356px;
+}
+
+
+.text-martelo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-dx81{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-dx37{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
